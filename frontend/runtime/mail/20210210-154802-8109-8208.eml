@@ -1,0 +1,55 @@
+Message-ID: <3b988cb7369316019298f550f547a815@localhost>
+Date: Wed, 10 Feb 2021 15:48:02 +0100
+Subject: Account registration at My Application
+From: My Application robot <support@example.com>
+To: chamba@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1612968482_d82afcf5401f964d650d1fd11d5cfde8_=_"
+
+
+--_=_swift_1612968482_d82afcf5401f964d650d1fd11d5cfde8_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Hello chamba,
+
+Follow the link below to verify your email:
+
+http=
+://localhost/kanglei/frontend/web/index.php?r=3Dsite%2Fverify-email&token=
+=3DcNmzJ4Yc3yv6FsPShCoG5rF3mSmHqAM0_1612968482
+
+--_=_swift_1612968482_d82afcf5401f964d650d1fd11d5cfde8_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello chamba,</p>
+
+    <p>Fol=
+low the link below to verify your email:</p>
+
+    <p><a href=3D"http://=
+localhost/kanglei/frontend/web/index.php?r=3Dsite%2Fverify-email&amp;token=
+=3DcNmzJ4Yc3yv6FsPShCoG5rF3mSmHqAM0_1612968482">http://localhost/kanglei/fr=
+ontend/web/index.php?r=3Dsite%2Fverify-email&amp;token=3DcNmzJ4Yc3yv6FsPShC=
+oG5rF3mSmHqAM0_1612968482</a></p>
+</div>
+    </body>
+</html>
+
+
+--_=_swift_1612968482_d82afcf5401f964d650d1fd11d5cfde8_=_--
